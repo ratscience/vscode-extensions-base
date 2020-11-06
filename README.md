@@ -24,6 +24,24 @@ code --install-extension aaron-bond.better-comments
 code --install-extension coenraads.bracket-pair-colorizer
 ```
 
+### GitLens — Git supercharged
+
+> Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+```bash
+code --install-extension eamodio.gitlens
+```
+
+### Git History
+
+> View git log, file history, compare branches or commits
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+```bash
+code --install-extension donjayamanne.githistory
+```
+
 ### Visual Studio IntelliCode
 
 > AI-assisted development
@@ -49,6 +67,15 @@ code --install-extension christian-kohler.path-intellisense
 
 ```bash
 code --install-extension esbenp.prettier-vscode
+```
+
+### YAML
+
+> YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+```bash
+code --install-extension redhat.vscode-yaml
 ```
 
 ---
