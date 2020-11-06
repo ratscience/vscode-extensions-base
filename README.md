@@ -87,6 +87,24 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension esbenp.prettier-vscode
 ```
 
+### Trailing Spaces
+
+> Highlight trailing spaces and delete them in a flash!
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+
+```bash
+code --install-extension shardulm94.trailing-spaces
+```
+
+### Output Colorizer
+
+> Syntax highlighting for log files
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+
+```bash
+code --install-extension IBM.output-colorizer
+```
+
 ### YAML
 
 > YAML Language Support by Red Hat, with built-in Kubernetes syntax support
