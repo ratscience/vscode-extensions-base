@@ -42,6 +42,24 @@ code --install-extension eamodio.gitlens
 code --install-extension donjayamanne.githistory
 ```
 
+### gitignore
+
+> Language support for .gitignore files. Lets you pull .gitignore files from the <https://github.com/github/gitignore> repository.
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+
+```bash
+code --install-extension codezombiech.gitignore
+```
+
+### Todo Tree
+
+> Show TODO, FIXME, etc. comment tags in a tree view
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+```bash
+code --install-extension Gruntfuggly.todo-tree
+```
+
 ### Visual Studio IntelliCode
 
 > AI-assisted development
@@ -76,6 +94,15 @@ code --install-extension esbenp.prettier-vscode
 
 ```bash
 code --install-extension redhat.vscode-yaml
+```
+
+### Rainbow CSV
+
+> Highlight CSV and TSV files in different colors, Run SQL-like queries
+> [Marketplace](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+```bash
+code --install-extension mechatroner.rainbow-csv
 ```
 
 ---
